@@ -10,7 +10,7 @@ O projeto é uma continuação do documento de Pesquisa Curricularizada de Gradu
 Link da documentação do projeto: [ALGORITMOS CRIPTOGRÁFICOS](https://docs.google.com/document/d/1eKZlc-bICpO1CRryWhqmSZMKzea8nvtQ/edit?usp=sharing&ouid=106154299811612627140&rtpof=true&sd=true)
 
 ## Funcionamento do código
-Para rodar o código é necessários ter dois arquivos, um de output e um de input, os dois do tipo 'txt'. Eles devem estar dentro da mesma pasta do arquivo da Criptografia. Se houver alguma erro no caminho do arquivo, "Crie os arquivos!", verifique a linha 262 e 263.
+Para rodar o código é necessários ter dois arquivos, um de output e um de input, os dois do tipo 'txt'. Eles devem estar dentro da mesma pasta do arquivo da Criptografia. Se houver algum erro no caminho do arquivo, "Crie os arquivos!", verifique a linha 262 e 263.
 
 - O código foi a implementação da criptografia Blowfish na linguagem C, por se tratar de uma criptografia Simétrica, tanto a encriptação quanto a decriptação deve ser feita com a mesma chave;
 - A chave tem um limite de 448 bits, 56 caracteres no máximo;
