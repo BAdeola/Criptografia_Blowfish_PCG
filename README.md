@@ -1,4 +1,6 @@
-![UNISANTOS](./images.png)
+<p align="center">
+  <img src="./images.png" alt="UNISANTOS" width="300" />
+</p>
 
 # Criptografia Blowfish para Estudos Teórico e Prático
 
