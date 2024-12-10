@@ -2,7 +2,7 @@
   <img src="./images.png" alt="UNISANTOS" width="300" />
 </p>
 
-# Criptografia Blowfish para Estudos Teórico e Prático
+# Criptografia Blowfish para Estudos Teóricos e Práticos
 
 ## Descrição
 O projeto é uma continuação do documento de Pesquisa Curricularizada de Graduação da Universidade Católica de Santos, envolvendo as matérias de Projeto de Algoritmos, Fundamentos da Computação II e Matemática Discreta. O projeto tem como objetivo pesquisar e entender o que é as Criptografias mais comuns (simétrica, assimétrica e hash) e seus contextos históricos. Nessa pesquisa focamos na criptografia Blowfish.
